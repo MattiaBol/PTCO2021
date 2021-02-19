@@ -34,11 +34,8 @@ Tramite API gateway si esponga tale funzione mediante GET
 
 Tramite Alexa dare la possibilità all’utente di chiedere:
 
-Previsione temperatura specificando il giorno della previsione (con un numero da 1
-a 7, 1= domani) per un dato campo
-
-Previsione umidità specificando il giorno della previsione (con un numero da 1 a 7)
-per un dato campo per un dato campo
+ Previsione temperatura specificando il giorno della previsione (con un numero da 1 a 7, 1= domani) per un dato campo
+ Previsione umidità specificando il giorno della previsione (con un numero da 1 a 7) per un dato campo per un dato campo
 
 La frase è del tipo
 
